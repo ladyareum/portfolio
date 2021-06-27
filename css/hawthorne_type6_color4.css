@@ -58,7 +58,7 @@ aside.blog-sidebar h5, .related-posts h5 {
 
 /* line 43, ../scss/master/_blog.scss */
 aside.blog-sidebar li, aside.blog-sidebar p {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -110,7 +110,7 @@ article h1, h1.archive-title {
 
 /* line 87, ../scss/master/_blog.scss */
 article h6.date {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 1rem;
@@ -122,7 +122,7 @@ article h6.date {
 
 /* line 98, ../scss/master/_blog.scss */
 article p, article li {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-size: 0.875rem;
   line-height: 1.6;
 }
@@ -136,7 +136,7 @@ article p a {
 
 /* line 108, ../scss/master/_blog.scss */
 article p.byline {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 1rem;
@@ -204,7 +204,7 @@ div div div article h3 {
 .related-posts ul li {
   margin-left: 0;
   line-height: 1.8;
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -259,7 +259,7 @@ h1.archive-title {
 
 /* line 211, ../scss/master/_blog.scss */
 .archive-item h6.date {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 0.875rem;
@@ -369,7 +369,7 @@ div.lined-list ul {
 
 /* line 97, ../scss/_custom.scss */
 .lined-list li {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: inherit;
@@ -385,7 +385,7 @@ div.lined-list ul {
 
 /* line 112, ../scss/_custom.scss */
 .lined-list li strong {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: inherit;
@@ -531,7 +531,7 @@ div div header h1 a {
 
 /* line 243, ../scss/_custom.scss */
 div div header h2 {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 0.875rem;
@@ -647,7 +647,7 @@ Project
 
 /* line 349, ../scss/_custom.scss */
 .thumbnail-caption {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 0.875rem;
@@ -690,7 +690,7 @@ hr.project-detail-hr {
 /* line 383, ../scss/_custom.scss */
 .project-img h6 {
   padding-top: 1em;
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 0.875rem;
@@ -754,7 +754,7 @@ footer ul {
 
 /* line 442, ../scss/_custom.scss */
 footer li {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 0.875rem;
@@ -898,7 +898,7 @@ body {
   color: #294757;
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1;
@@ -1545,7 +1545,7 @@ select {
 /* line 197, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
 button, .button {
   cursor: pointer;
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -4923,7 +4923,7 @@ meta.foundation-mq-topbar {
   color: white;
   padding: 12px 0 12px 0;
   padding-left: 15px;
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-size: 0.8125rem;
   font-weight: normal;
   background: #333333;
