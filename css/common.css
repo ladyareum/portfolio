@@ -454,15 +454,15 @@ ol li {
 
 /* line 167, ../scss/_custom.scss */
 div h1, div h2, div h3, div h4, div h5, div h6 {
-  font-weight: bold;
+  font-weight: 400;
 }
 
 /* line 171, ../scss/_custom.scss */
 div div h2 {
-  font-family: "Nanum Gothic","Lato", "Noto Sans KR", sans-serif;
-  font-weight: bold;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
+  font-weight: 400;
   font-style: normal;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   line-height: 1.3;
   letter-spacing: 0;
   text-transform: none;
@@ -470,8 +470,8 @@ div div h2 {
 
 /* line 181, ../scss/_custom.scss */
 div div h3 {
-  font-family: "Nanum Gothic","Lato", "Noto Sans KR", sans-serif;
-  font-weight: bold;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
+  font-weight: 400;
   font-style: normal;
   font-size: 1.125rem;
   line-height: 1.3;
@@ -604,7 +604,7 @@ nav ul li a, nav ul li a:hover {
 
 /* line 304, ../scss/_custom.scss */
 a.current {
-  color: #a6a2a6;
+  color: #d45735;
   pointer-events: none;
 }
 
@@ -696,7 +696,7 @@ hr.project-detail-hr {
 /* line 383, ../scss/_custom.scss */
 .project-img h6 {
   padding-top: 1em;
-  font-family: "Nanum Gothic","Lato", "Noto Sans KR", sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: 300;
   font-style: normal;
   font-size: 0.875rem;
@@ -747,8 +747,6 @@ Footer
 footer {
   border-top: 1px solid #b5b1b3;
   margin-top: 3em;
-  padding-top: 4em;
-  padding-bottom: 5em;
 }
 
 /* line 436, ../scss/_custom.scss */
@@ -4333,7 +4331,7 @@ a img {
 /* Default paragraph styles */
 /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
 p {
-  font-family: "Nanum Gothic","Lato", "Noto Sans KR", sans-serif;
+  font-family: "Lato", "Noto Sans KR", sans-serif;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.6;
@@ -5511,3 +5509,18 @@ ul.off-canvas-list li a {
 .lt-ie10 .move-right > .inner-wrap {
   left: 250px;
 }
+
+.work-years{font-size:1.25rem; font-weight:400; padding-bottom:1em;}
+.project-link{text-align:center;}
+.project-link .secondary{background-color: #fff; border:1px solid #cd684d; color: #d37961; margin: 1rem 0; padding: 1rem 4rem;}
+.project-link .secondary:hover{background-color: #d37961; border-color: #cd684d; color: #fff;}
+.project-link .brand{background-color: #d37961; border:1px solid #cd684d; color: #fff; margin: 1rem 0; padding: 1rem 4rem;}
+.project-link .brand:hover{background-color: #cd684d; border:1px solid #d37961; color: #fff;}
+
+
+
+
+
+
+
+
