@@ -5516,7 +5516,7 @@ ul.off-canvas-list li a {
 .project-link .secondary:hover{background-color: #d37961; border-color: #cd684d; color: #fff;}
 .project-link .brand{background-color: #d37961; border:1px solid #cd684d; color: #fff; margin: 1rem 0; padding: 1rem 4rem;}
 .project-link .brand:hover{background-color: #cd684d; border:1px solid #d37961; color: #fff;}
-
+.about-photo{position: relative; overflow:hidden; width:50%; border-radius:50%; text-align:center; margin:0 auto 1.5em;}
 
 
 
